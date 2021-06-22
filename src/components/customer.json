@@ -1,0 +1,49 @@
+ [
+      {
+        "id":1,
+        "isim": "Ali ",
+        "mail":"asd@asd.asd",
+        "soyisim": "sd",
+        "numara": "2515153",
+        "ulke": "fsads",
+        "il": "fdsas",
+        "ilce": "dsa",
+        "semt": "dsfs",
+        "vergiDairesi": "safd",
+        "vergiNumarasi": "1212",
+        "duzenlenmeTarihi": "2021-05-10",
+        "duzenleyen": "qwdsa"
+      },
+      {
+        "id":2,
+        "isim": "Ali ",
+        "mail":"asd@asd.asd",
+        "soyisim": "sd",
+        "numara": "2515153",
+        "ulke": "bfsads",
+        "il": "fdsas",
+        "ilce": "dsa",
+        "semt": "dsfs",
+        "vergiDairesi": "safd",
+        "vergiNumarasi": "1212",
+        "duzenlenmeTarihi": "2021-05-10",
+        "duzenleyen": "qwdsa"
+      },
+      {
+        "id":3,
+        "isim": "Ali ",
+        "mail":"asd@asd.asd",
+        "soyisim": "sd",
+        "numara": "12515153",
+        "ulke": "afsasdasads",
+        "il": "fdsas",
+        "ilce": "dsa",
+        "semt": "dsfs",
+        "vergiDairesi": "safd",
+        "vergiNumarasi": "1212",
+        "duzenlenmeTarihi": "2021-05-10",
+        "duzenleyen": "qwdsa"
+      }
+    ]
+    
+  

@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+body,
+html,
+#root,
+.app,
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #283c34;
+    margin-top: 15px;
+}
